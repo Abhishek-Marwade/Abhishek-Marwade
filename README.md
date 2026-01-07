@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- I'm currently working on Data Analytics and Machine Learning projects<br>- I'm looking to collaborate on AI, Data Science, and Open Source projects<br>- I'm looking for help with RAG architectures, scalable APIs, and search systems<br>- I'm currently learning FastAPI, PostgreSQL, Vector Databases, and LLMs<br>- Ask me about Python, SQL, Data Analysis, APIs, and AI projects<br>- Fun fact: I enjoy turning complex problems into simple systems
+I'm currently working on Data Analytics and Machine Learning projects<br>- I'm looking to collaborate on AI, Data Science, and Open Source projects<br>- I'm looking for help with RAG architectures, scalable APIs, and search systems<br>- I'm currently learning FastAPI, PostgreSQL, Vector Databases, and LLMs<br>- Ask me about Python, SQL, Data Analysis, APIs, and AI projects<br>- Fun fact: I enjoy turning complex problems into simple systems
 
 
 ## 🌐 Socials:
